@@ -32,3 +32,9 @@ left join EmployeeUNI on Employees.id = EmployeeUNI.id
 # 1068 Product Sales Analysis I
 select Product.product_name, Sales.year, Sales.price
 from Sales left join Product on Product.product_id = Sales.product_id
+
+# 1581 Customer Who visited but did not make any transactions
+select customer_id, count(distinct Visits.visit_id) as count_no_trans
+from Visits left join Transactions on Visits.visit_id = Transactions.visit_id
+where amount is null
+group by customer_id
