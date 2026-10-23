@@ -1,6 +1,6 @@
 # SQL50
 
-My solutions to the [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/) study plan.
+My solutions to the [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/) study plan.ssss
 
 ## About
 
