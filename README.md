@@ -1,7 +1,6 @@
 # SQL50
 
-My solutions to the [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/) study plan.sssssss
-sssss
+My solutions to the [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/) study plan.
 ## About
 
 SQL 50 is a set of 50 SQL problems on LeetCode. It covers core database skills like querying, joins, aggregation, subqueries, and string and date functions. This repo is where I keep my answers as I work through them.
